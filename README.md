@@ -1,0 +1,1 @@
+the system looked at what movies users had watched in the past and used that information to suggest other movies they might like. This was done using Python programming language and machine learning algorithms."
